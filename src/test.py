@@ -20,7 +20,7 @@ with open("data/raw/lichess_db_standard_rated_2013-01.pgn") as f:
             resultW = "Win"
             resultL = "Lose"
         elif(game.headers["Result"] == "0-1"):
-            resultL = "Win"
+            resultL = "Win" 
             resultW = "Lose"
         else:
             resultW = "Draw"
@@ -34,9 +34,9 @@ with open("data/raw/lichess_db_standard_rated_2013-01.pgn") as f:
                 "opening": game.headers["Opening"],
                 "game": game.mainline()}
         black = {"color": "Black",
-                "result": resultW,
+                "result": resultL,
                 "opening": game.headers["Opening"],
-                "game": game.mainline()}
+                "game": game.ma}
         player_games.setdefault(game.headers["White"], []).append(white)
         player_games.setdefault(game.headers["Black"], []).append(black)
 
