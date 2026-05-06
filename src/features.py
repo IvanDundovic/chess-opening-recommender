@@ -214,7 +214,3 @@ def extract_features(games, num_of_moves=10):
         #print(f"Dodajem {key}")
         features_list.append(features[key])
     return np.array(features_list)
-
-    
-
-
