@@ -1,0 +1,669 @@
+cluster,opening,win_rate,total_games
+0,Barnes Defense,0.6904761904761905,74
+0,Portuguese Opening,0.676923076923077,55
+0,King's Pawn,0.671875,54
+0,Crab Opening,0.65,10
+0,Hippopotamus Defense #2,0.631578947368421,28
+0,"King's Gambit Accepted, Muzio Gambit, Sarratt Defense",0.625,22
+0,Kadas Opening,0.6195652173913043,82
+0,Creepy Crawly Formation,0.6129032258064516,21
+0,Barnes Opening,0.6097560975609756,31
+0,Ware Defense,0.6068376068376068,107
+0,"Englund Gambit Declined, Reversed Mokele Mbembe",0.5909090909090909,12
+0,Goldsmith Defense,0.5858585858585859,89
+0,"King's Gambit, Falkbeer Countergambit, Hinrichsen Gambit",0.5833333333333334,14
+0,Mikenas Defense,0.5811965811965812,224
+0,Paleface Attack,0.581081081081081,64
+0,Grob Opening,0.5792079207920792,394
+0,Center Game #2,0.579175704989154,451
+0,Lasker Simul Special,0.5789473684210527,9
+0,"Benko Gambit Accepted, Pawn Return Variation",0.5789473684210527,9
+0,Clemenz Opening,0.5773195876288659,87
+0,"King's Gambit, Falkbeer Countergambit, Nimzowitsch-Marshall Countergambit",0.5769230769230769,16
+0,King's Knight Opening,0.5763546798029556,1411
+0,Amar Opening,0.5737704918032787,51
+0,King's Pawn Opening,0.5721925133689839,177
+0,Gedult's Opening,0.5714285714285714,95
+0,"King's Gambit Accepted, Polerio Gambit",0.5714285714285714,46
+0,"King's Gambit Declined, Norwalde Variation",0.5692307692307692,55
+0,"Englund Gambit Declined, Reversed Alekhine",0.5681818181818182,34
+0,Torre Attack #2,0.5669291338582677,117
+0,Borg Defense,0.5662650602409639,156
+0,Lemming Defense,0.5652173913043478,36
+0,"King's Gambit Declined, Miles Defense",0.5641025641025641,29
+0,"King's Gambit Accepted, Bishop's Gambit, Bogoljubov Defense",0.5625,6
+0,"King's Gambit, Falkbeer Countergambit, Staunton Line",0.5588235294117647,126
+0,Ware Opening,0.5584415584415584,144
+0,Center Game Accepted,0.5573770491803278,51
+0,Polish Defense,0.5555555555555556,89
+0,Petrov's Defense #5,0.5531914893617021,37
+0,"Benko Gambit Accepted, Fianchetto Variation",0.55,10
+0,"Danish Gambit Accepted, Classical Defense",0.5476190476190477,74
+0,"King's Gambit, Falkbeer Countergambit Accepted",0.546875,54
+0,Bogo-Indian Defense,0.5466666666666666,65
+0,Petrov's Defense,0.5460636515912898,587
+0,London System,0.5454545454545454,34
+0,"Benko Gambit Accepted, Modern Variation",0.5454545454545454,12
+0,Richter-Veresov Attack,0.5428571428571428,95
+0,Petrov's Defense #3,0.5416666666666666,14
+0,Pirc Defense #2,0.5405405405405406,138
+0,St. George Defense,0.5378323108384458,479
+0,Latvian Gambit Accepted,0.536,240
+0,"Nimzowitsch Defense, Declined Variation",0.5347432024169184,321
+0,Alekhine Defense #2,0.5340909090909091,78
+0,King's Pawn Game,0.5336117335506213,9808
+0,Danish Gambit Accepted,0.5333333333333333,200
+0,"Blackmar-Diemer Gambit Declined, Lamb Defense",0.5333333333333333,20
+0,Mieses Opening,0.5303225806451612,765
+0,"King's Gambit, Falkbeer Countergambit, Anderssen Attack",0.5294117647058824,7
+0,Center Game,0.5293367346938775,1558
+0,Carr Defense,0.5289855072463768,128
+0,Queen's Pawn,0.528804815133276,1153
+0,Pirc Defense #4,0.5281189398836458,1537
+0,Rat Defense,0.5279329608938548,1064
+0,Slav Defense #3,0.5273972602739726,136
+0,"King's Gambit, Falkbeer Countergambit, Miles Gambit",0.5263157894736842,9
+0,"King's Gambit Declined, Classical Variation, Rotlewi Countergambit",0.5263157894736842,9
+0,"King's Gambit Declined, Mafia Defense",0.525,30
+0,Englund Gambit Complex Declined,0.524390243902439,154
+0,"King's Gambit Accepted, Stamma Gambit",0.5238095238095238,11
+0,Petrov,0.5234899328859061,139
+0,Van Geet Opening,0.5234493192133132,651
+0,Owen Defense,0.5222953216374269,2726
+0,Benko Gambit,0.5222222222222223,80
+0,"Danish Gambit Accepted, Chigorin Defense",0.5217391304347826,36
+0,Scotch Gambit,0.5217391304347826,13
+0,Gunderam Defense,0.5208333333333334,86
+0,King's Gambit Accepted,0.5201149425287356,338
+0,Pterodactyl Defense,0.5192307692307693,42
+0,Philidor Defense,0.5191176470588236,3390
+0,"Blackmar-Diemer Gambit Declined, Weinsbach Declination",0.5185185185185185,17
+0,Modern Defense,0.51801209571391,3793
+0,Danish Gambit,0.517426273458445,736
+0,Pirc Defense #3,0.5172413793103449,77
+0,"Englund Gambit Declined, Reversed French",0.5171717171717172,485
+0,Van't Kruijs Opening,0.517017017017017,3986
+0,Englund Gambit,0.5162393162393163,575
+0,Bird Opening,0.5162337662337663,1222
+0,Slav Indian,0.5161290322580645,21
+0,"King's Gambit Accepted, Kieseritzky Gambit, Kolisch Defense",0.5161290322580645,21
+0,Nimzo-Larsen Attack,0.5153256704980843,1556
+0,Ponziani Opening,0.5152671755725191,514
+0,"Danish Gambit Accepted, Schlechter Defense",0.5151515151515151,23
+0,Queen's Pawn Game #3,0.5150602409638554,654
+0,Franco-Benoni Defense,0.5149253731343284,258
+0,"Danish Gambit Accepted, Copenhagen Defense",0.5142857142857142,130
+0,Pirc Defense,0.5127840909090909,694
+0,"King's Gambit Accepted, Cunningham Defense, McCormick Defense",0.5121951219512195,31
+0,King's Gambit,0.512114537444934,898
+0,Canard Opening,0.5116279069767442,33
+0,Zukertort Opening,0.5116190476190476,2615
+0,"King's Gambit Accepted, Modern Defense",0.5114503816793893,121
+0,Elephant Gambit,0.5113300492610837,1005
+0,Philidor Defense #2,0.5111358574610245,2684
+0,Bishop's Opening,0.5106715993170177,7018
+0,Pirc Defense #5,0.510556621880998,511
+0,"King's Gambit Accepted, Bishop's Gambit",0.5093167701863354,151
+0,Alekhine Defense,0.5084915084915085,1992
+0,Philidor Defense #3,0.5078212290502794,3570
+0,Blackmar-Diemer Gambit,0.5076219512195121,646
+0,King's Gambit Declined,0.5074074074074074,260
+0,"King's Gambit Declined, Queen's Knight Defense",0.5065885797950219,673
+0,Nimzowitsch Defense,0.5063291139240507,2439
+0,Russian Game,0.505720823798627,3049
+0,French Defense #2,0.505175983436853,1439
+0,English Defense #2,0.503954802259887,875
+0,Three Knights Opening #2,0.5032258064516129,300
+0,French Defense,0.5031511922552141,15381
+0,Horwitz Defense,0.5030615533354817,3093
+0,Scotch Game,0.5020833333333333,4790
+0,Italian Game,0.5005150391429749,9698
+0,Scandinavian Defense,0.5001512859304085,9905
+0,English Opening,0.5,4018
+0,English Defense,0.5,184
+0,Petrov's Defense #4,0.5,20
+0,"King's Gambit Accepted, Double Muzio Gambit, Bello Gambit",0.5,6
+0,"King's Gambit Accepted, Kieseritzky Gambit, Cotter Gambit",0.5,14
+0,Queen's Indian Accelerated,0.5,20
+0,"King's Gambit Accepted, Allgaier Gambit",0.5,24
+0,"King's Gambit Accepted, Bishop's Gambit, Bogoljubov Variation",0.5,6
+0,Robatsch (Modern) Defense,0.4994786235662148,949
+0,Queen's Pawn Game #2,0.4992378048780488,2614
+0,"King's Gambit Accepted, MacLeod Defense",0.496,615
+0,Englund Gambit Complex,0.4946808510638298,366
+0,Benoni Defense,0.49447852760736194,805
+0,Old Benoni Defense,0.49337260677466865,669
+0,Vienna Game,0.4930173508252222,2353
+0,Old Indian Defense,0.49279538904899134,337
+0,"King's Gambit Accepted, King's Knight Gambit",0.4925373134328358,660
+0,Philidor Defense #4,0.4919210053859964,547
+0,"King's Gambit Accepted, Schallopp Defense",0.49185667752442996,297
+0,Nimzo-Indian Defense #2,0.49166666666666664,110
+0,Saragossa Opening,0.49130434782608695,450
+0,Duras Gambit,0.4900662251655629,292
+0,Slav Defense,0.4899178491411501,1329
+0,"King's Gambit Accepted, Salvio Gambit",0.4897959183673469,39
+0,Hungarian Opening,0.4896021699819168,2202
+0,Queen's Pawn Opening,0.4880952380952381,74
+0,"King's Gambit, Falkbeer Countergambit, Charousek Gambit",0.4878048780487805,31
+0,"King's Gambit Accepted, Bonsch-Osmolovsky Variation",0.4878048780487805,31
+0,Torre Attack,0.48760330578512395,111
+0,Blumenfeld Countergambit #2,0.48717948717948717,29
+0,"King's Gambit Accepted, Becker Defense",0.4864864864864865,101
+0,Indian Game,0.48616803278688525,1942
+0,Four Knights Game,0.48578042328042326,3014
+0,"King's Gambit Accepted, Cunningham Defense",0.48534201954397393,297
+0,"Danish Gambit Declined, Sorensen Defense",0.48514851485148514,91
+0,Yusupov-Rubinstein System,0.4845360824742268,87
+0,Queen's Pawn Game,0.4841643148322358,9557
+0,Latvian Gambit,0.4835164835164835,263
+0,Petrov's Defense #2,0.4829787234042553,460
+0,Nimzowitsch-Larsen Attack,0.4827586206896552,48
+0,"Benko Gambit Accepted, Fully Accepted Variation",0.48148148148148145,17
+0,Caro-Kann Defense,0.48011734028683184,6126
+0,Sicilian Defense,0.48004936240230356,21869
+0,Polish Opening,0.48004094165813715,967
+0,Giuoco Piano,0.4795258620689655,918
+0,"King's Gambit Accepted, Blachly Gambit",0.4794520547945205,63
+0,"King's Gambit Declined, Classical Variation",0.47761194029850745,191
+0,Tarrasch Defense,0.4774436090225564,256
+0,Sicilian Defense #2,0.47685185185185186,422
+0,"King's Gambit Accepted, Traditional Variation",0.47619047619047616,11
+0,"King's Gambit Accepted, Lolli Gambit",0.47619047619047616,11
+0,"King's Gambit Accepted, Abbazia Defense",0.475,30
+0,Ruy Lopez,0.4746103569632981,5957
+0,Irish Gambit,0.47368421052631576,9
+0,"King's Gambit Accepted, Rosentreter Gambit, Bird Gambit",0.47368421052631576,9
+0,King's Indian Defense,0.47215189873417723,780
+0,Slav Defense #2,0.4715261958997722,429
+0,Reti Opening #2,0.47107438016528924,111
+0,"King's Gambit Accepted, Bishop's Gambit, Cozio Defense",0.47058823529411764,24
+0,"King's Gambit Accepted, Kieseritzky Gambit, Long Whip",0.47058823529411764,7
+0,"King's Gambit Accepted, Rosentreter-Testa Gambit",0.47058823529411764,7
+0,"King's Gambit, Falkbeer Countergambit, Charousek Gambit, Morphy Defense",0.47058823529411764,7
+0,"King's Gambit Declined, Petrov's Defense",0.46938775510204084,39
+0,Three Knights Opening,0.46912590216519645,1237
+0,"King's Gambit Accepted, Fischer Defense",0.46906474820143884,685
+0,"King's Gambit, Falkbeer Countergambit, Blackburne Attack",0.4675324675324675,67
+0,"Blackmar-Diemer Gambit Declined, Langeheinecke Defense",0.4666666666666667,5
+0,Blackmar-Diemer Gambit #2,0.4666666666666667,5
+0,"King's Gambit Accepted, Muzio Gambit, Wild Muzio Gambit",0.46511627906976744,33
+0,Queen's Gambit Refused,0.46449570330167345,2201
+0,Semi-Bononi,0.4642857142857143,18
+0,Reti Opening,0.4634146341463415,359
+0,Dutch Defense,0.4611727416798732,621
+0,Colle System #2,0.4609375,118
+0,"King's Gambit Accepted, Bishop's Gambit, Maurian Defense",0.4605263157894737,66
+0,Vienna Game #2,0.4594594594594595,27
+0,"King's Gambit Accepted, Breyer Gambit",0.45714285714285713,25
+0,Semi-Slav Defense,0.4569402228976697,977
+0,Queen's Gambit Accepted,0.45692599620493357,2625
+0,Queen's Gambit Declined,0.45655210952780106,3569
+0,Queen's Gambit,0.45294117647058824,160
+0,Budapest Defense,0.4521276595744681,178
+0,Caro-Kann Defense #2,0.45121951219512196,72
+0,Sodium Attack,0.4507042253521127,61
+0,Trompowsky Attack,0.4502923976608187,332
+0,"King's Gambit Accepted, Gianutio Countergambit",0.45,10
+0,Nimzo-Indian Defense,0.44936708860759494,622
+0,Amazon Attack,0.44912280701754387,275
+0,Old Benoni Defense #2,0.4485981308411215,97
+0,"King's Gambit Accepted, Bishop's Gambit, Lopez Defense",0.4444444444444444,8
+0,"King's Gambit, Falkbeer Countergambit, Modern Transfer",0.4444444444444444,17
+0,Colle System,0.4429530201342282,437
+0,"King's Gambit Declined, Keene Defense",0.4426229508196721,51
+0,Czech Defense,0.43859649122807015,47
+0,Gruenfeld Defense,0.4361111111111111,350
+0,King's Indian Attack,0.43558282208588955,316
+0,"Englund Gambit Declined, Reversed Krebs",0.43478260869565216,13
+0,Wade Defense,0.43243243243243246,27
+0,"King's Gambit Accepted, Cunningham Defense, Bertin Gambit",0.43243243243243246,27
+0,Queen's Indian Defense,0.4322033898305085,108
+0,Catalan Opening,0.43209876543209874,71
+0,Guatemala Defense,0.42857142857142855,39
+0,Neo-Gruenfeld Defense,0.425,30
+0,East Indian Defense,0.42424242424242425,89
+0,Old Indian,0.4230769230769231,16
+0,"Benko Gambit Declined, Main Line",0.42105263157894735,9
+0,Anderssen Opening,0.41729323308270677,256
+0,Rubinstein Opening,0.4166666666666667,14
+0,Scotch Game #3,0.4166666666666667,26
+0,"King's Gambit Declined, Classical Variation #2",0.4146341463414634,31
+0,Bronstein Gambit,0.4117647058823529,7
+0,Montevideo Defense,0.4,10
+0,Kangaroo Defense,0.39655172413793105,48
+0,"King's Gambit Accepted, Rosentreter Gambit",0.39622641509433965,43
+0,Australian Defense,0.3888888888888889,8
+0,Mexican Defense,0.3793103448275862,19
+0,Global Opening,0.3684210526315789,9
+0,"King's Gambit Accepted, Hanstein Gambit",0.36363636363636365,23
+0,Alekhine Defense #3,0.36,15
+0,Lion Defense,0.3541666666666667,38
+0,Robatsch Defense,0.3333333333333333,14
+1,"King's Gambit Accepted, Rosentreter Gambit",0.6842105263157895,9
+1,Benko Gambit,0.625,6
+1,Global Opening,0.6190476190476191,11
+1,Crab Opening,0.574468085106383,37
+1,"King's Gambit Accepted, Breyer Gambit",0.5522388059701493,57
+1,Nimzowitsch-Larsen Attack,0.5454545454545454,12
+1,Nimzo-Indian Defense,0.5384615384615384,29
+1,"King's Gambit, Falkbeer Countergambit, Charousek Gambit",0.5333333333333333,5
+1,"King's Gambit Accepted, Blachly Gambit",0.5333333333333333,5
+1,Kangaroo Defense,0.5294117647058824,24
+1,"King's Gambit Accepted, Cunningham Defense",0.5238095238095238,11
+1,Anderssen Opening,0.5165876777251185,412
+1,Pirc Defense #2,0.5161290322580645,21
+1,Ware Opening,0.5041551246537396,351
+1,"King's Gambit Accepted, Polerio Gambit",0.5,10
+1,Yusupov-Rubinstein System,0.5,12
+1,Lemming Defense,0.5,18
+1,East Indian Defense,0.5,8
+1,Sodium Attack,0.5,16
+1,Australian Defense,0.5,8
+1,"Danish Gambit Declined, Sorensen Defense",0.5,6
+1,Polish Opening,0.4829787234042553,460
+1,Duras Gambit,0.4827586206896552,48
+1,Budapest Defense,0.4782608695652174,13
+1,"Danish Gambit Accepted, Classical Defense",0.47058823529411764,7
+1,Scotch Game #3,0.47058823529411764,7
+1,Lasker Simul Special,0.47058823529411764,7
+1,Clemenz Opening,0.4700854700854701,107
+1,Queen's Indian Accelerated,0.4666666666666667,5
+1,Englund Gambit Complex Declined,0.4634146341463415,72
+1,"King's Gambit, Falkbeer Countergambit, Staunton Line",0.4583333333333333,14
+1,System,0.45454545454545453,12
+1,Dutch Defense,0.4540540540540541,175
+1,Ware Defense,0.45161290322580644,145
+1,Wade Defense,0.4444444444444444,8
+1,Queen's Indian Defense,0.4444444444444444,8
+1,Van't Kruijs Opening,0.4401300688599847,5218
+1,Polish Defense,0.4375,118
+1,Montevideo Defense,0.4375,6
+1,Goldsmith Defense,0.43609022556390975,123
+1,King's Pawn,0.4358974358974359,68
+1,Kadas Opening,0.4330708661417323,117
+1,Slav Defense,0.43097643097643096,287
+1,"King's Gambit, Falkbeer Countergambit Accepted",0.42857142857142855,11
+1,Mikenas Defense,0.42857142857142855,270
+1,Tarrasch Defense,0.42857142857142855,18
+1,Hungarian Opening,0.427515633882888,1749
+1,King's Pawn Game,0.42645194014709614,7876
+1,Reti Opening,0.4263565891472868,119
+1,Modern Defense,0.4240041928721174,1898
+1,"Englund Gambit Declined, Reversed French",0.4219269102990033,291
+1,Center Game #2,0.4217171717171717,386
+1,Vienna Game,0.4217142857142857,865
+1,Philidor Defense #4,0.42105263157894735,28
+1,"Englund Gambit Declined, Reversed Alekhine",0.42105263157894735,9
+1,"King's Gambit Accepted, Traditional Variation",0.42105263157894735,9
+1,Owen Defense,0.4188210961737332,1924
+1,Queen's Pawn Game #2,0.4183046683046683,1618
+1,Nimzo-Larsen Attack,0.41814780168381666,1059
+1,Englund Gambit,0.4180602006688963,289
+1,Portuguese Opening,0.41509433962264153,43
+1,Queen's Pawn Game,0.414437152953054,3952
+1,Mieses Opening,0.41346153846153844,822
+1,"King's Gambit Declined, Petrov's Defense",0.4117647058823529,7
+1,Sicilian Defense #2,0.4090909090909091,12
+1,Canard Opening,0.4090909090909091,34
+1,Petrov's Defense,0.40782122905027934,169
+1,"Nimzowitsch Defense, Declined Variation",0.4074074074074074,71
+1,Lion Defense,0.4074074074074074,17
+1,Grob Opening,0.40636042402826855,273
+1,Saragossa Opening,0.4061624649859944,347
+1,English Defense,0.40594059405940597,91
+1,Rat Defense,0.4055299539170507,424
+1,Hippopotamus Defense #2,0.40540540540540543,27
+1,"King's Gambit Declined, Classical Variation",0.40476190476190477,32
+1,French Defense #2,0.4045643153526971,954
+1,Queen's Pawn Game #3,0.40443213296398894,351
+1,St. George Defense,0.4039829302987198,693
+1,Nimzowitsch Defense,0.40320962888665995,987
+1,Carr Defense,0.40186915887850466,97
+1,Blackmar-Diemer Gambit,0.4014084507042254,132
+1,King's Pawn Opening,0.4013605442176871,137
+1,English Defense #2,0.4011049723756906,895
+1,Scandinavian Defense,0.40055153395380905,2891
+1,Caro-Kann Defense #2,0.4,45
+1,"King's Gambit Accepted, Bishop's Gambit, Lopez Defense",0.4,5
+1,Richter-Veresov Attack,0.4,20
+1,"Englund Gambit Declined, Reversed Mokele Mbembe",0.4,5
+1,Borg Defense,0.39935064935064934,298
+1,Alekhine Defense,0.3989547038327526,564
+1,Ponziani Opening,0.39862542955326463,281
+1,Giuoco Piano,0.3971631205673759,131
+1,French Defense,0.39687267311988084,5362
+1,Philidor Defense #2,0.39478957915831664,988
+1,Barnes Defense,0.3942307692307692,94
+1,Creepy Crawly Formation,0.3939393939393939,23
+1,Three Knights Opening #2,0.3939393939393939,56
+1,Reti Opening #2,0.39285714285714285,18
+1,Torre Attack #2,0.39285714285714285,18
+1,Three Knights Opening,0.391705069124424,207
+1,Gruenfeld Defense,0.391304347826087,13
+1,Semi-Slav Defense,0.3900709219858156,131
+1,Gedult's Opening,0.38990825688073394,208
+1,Old Benoni Defense,0.3875,150
+1,Caro-Kann Defense,0.3868974042027194,1608
+1,Queen's Gambit,0.38666666666666666,65
+1,Old Indian Defense,0.38596491228070173,104
+1,Horwitz Defense,0.38522427440633245,2264
+1,Alekhine Defense #2,0.38461538461538464,29
+1,Bishop's Opening,0.3805418719211823,2426
+1,English Opening,0.3791899441340782,1422
+1,Petrov's Defense #2,0.3770491803278688,51
+1,Scotch Game,0.376,615
+1,Semi-Bononi,0.375,14
+1,"King's Gambit Accepted, Modern Defense",0.375,22
+1,Queen's Pawn,0.3748782862706913,1017
+1,Pirc Defense #4,0.3738562091503268,755
+1,Gunderam Defense,0.37333333333333335,65
+1,Danish Gambit Accepted,0.37037037037037035,17
+1,Sicilian Defense,0.3681225184344867,3516
+1,Italian Game,0.3670498084291188,1295
+1,Colle System,0.36666666666666664,80
+1,"King's Gambit Declined, Queen's Knight Defense",0.36551724137931035,135
+1,Bird Opening,0.36363636363636365,661
+1,"King's Gambit Declined, Norwalde Variation",0.36363636363636365,23
+1,Zukertort Opening,0.36314067611777534,907
+1,King's Knight Opening,0.36114285714285715,865
+1,Mexican Defense,0.36,15
+1,King's Gambit Accepted,0.35714285714285715,46
+1,Queen's Gambit Refused,0.3547619047619048,410
+1,Van Geet Opening,0.35410764872521244,343
+1,Ruy Lopez,0.3536776212832551,629
+1,Queen's Gambit Accepted,0.3532423208191126,576
+1,Czech Defense,0.35294117647058826,7
+1,Philidor Defense,0.35279805352798055,812
+1,Indian Game,0.35276532137518685,659
+1,Four Knights Game,0.3515439429928741,411
+1,Amar Opening,0.35135135135135137,27
+1,Center Game,0.3509933774834437,594
+1,Englund Gambit Complex,0.35051546391752575,87
+1,King's Indian Defense,0.3488372093023256,33
+1,Queen's Gambit Declined,0.3474576271186441,462
+1,Trompowsky Attack,0.3469387755102041,39
+1,Slav Defense #3,0.34545454545454546,45
+1,Danish Gambit,0.34328358208955223,57
+1,Queen's Pawn Opening,0.34146341463414637,31
+1,Philidor Defense #3,0.33905146316851664,981
+1,Robatsch (Modern) Defense,0.3389830508474576,285
+1,Pirc Defense #5,0.3380281690140845,203
+1,Russian Game,0.3333333333333333,542
+1,Latvian Gambit,0.3333333333333333,32
+1,King's Indian Attack,0.3333333333333333,35
+1,"King's Gambit Accepted, Becker Defense",0.3333333333333333,20
+1,Center Game Accepted,0.3333333333333333,14
+1,Pirc Defense #3,0.3333333333333333,11
+1,"King's Gambit Accepted, Fischer Defense",0.3253012048192771,73
+1,"King's Gambit Accepted, Bishop's Gambit",0.32432432432432434,27
+1,Old Benoni Defense #2,0.3235294117647059,24
+1,Barnes Opening,0.32142857142857145,18
+1,Nimzo-Indian Defense #2,0.32,15
+1,"Danish Gambit Accepted, Copenhagen Defense",0.3157894736842105,9
+1,King's Gambit,0.31382978723404253,178
+1,Paleface Attack,0.3076923076923077,120
+1,King's Gambit Declined,0.30612244897959184,39
+1,"King's Gambit Accepted, King's Knight Gambit",0.3051948051948052,144
+1,Franco-Benoni Defense,0.30392156862745096,92
+1,Latvian Gambit Accepted,0.2972972972972973,27
+1,"King's Gambit Declined, Keene Defense",0.29411764705882354,7
+1,Colle System #2,0.29411764705882354,24
+1,Pirc Defense,0.2916666666666667,62
+1,Petrov,0.28,15
+1,Amazon Attack,0.2786885245901639,112
+1,Benoni Defense,0.27647058823529413,160
+1,Elephant Gambit,0.27586206896551724,222
+1,"King's Gambit Accepted, MacLeod Defense",0.25,46
+1,"King's Gambit Accepted, Schallopp Defense",0.24324324324324326,27
+1,Slav Defense #2,0.2413793103448276,48
+2,Sodium Attack,0.7083333333333334,14
+2,Scotch Game #3,0.6538461538461539,16
+2,Goldsmith Defense,0.6354166666666666,86
+2,Paleface Attack,0.6354166666666666,86
+2,Hippopotamus Defense #2,0.625,30
+2,Alekhine Defense #3,0.625,22
+2,"King's Gambit Accepted, Bishop's Gambit, Anderssen Defense",0.625,6
+2,"King's Gambit Accepted, Bishop's Gambit, Lopez Defense",0.625,6
+2,Borg Defense,0.622093023255814,162
+2,Australian Defense,0.6190476190476191,11
+2,"King's Gambit Accepted, Muzio Gambit, Wild Muzio Gambit",0.6176470588235294,24
+2,Kangaroo Defense,0.6133333333333333,65
+2,Montevideo Defense,0.6111111111111112,8
+2,Carr Defense,0.6,125
+2,"King's Gambit Accepted, Gianutio Countergambit",0.6,5
+2,Lion Defense,0.5952380952380952,74
+2,Old Benoni Defense #2,0.5925925925925926,125
+2,Ware Defense,0.5923076923076923,120
+2,Mexican Defense,0.5909090909090909,34
+2,Blackmar-Diemer Gambit #2,0.5909090909090909,12
+2,Amazon Attack,0.5873015873015873,431
+2,Barnes Opening,0.5862068965517241,19
+2,Gunderam Defense,0.5813953488372093,119
+2,Gedult's Opening,0.5771812080536913,139
+2,"King's Gambit Accepted, Schallopp Defense",0.5721649484536082,184
+2,Kadas Opening,0.5714285714285714,130
+2,Queen's Pawn Opening,0.5679012345679012,71
+2,"King's Gambit Accepted, Cunningham Defense, Bertin Gambit",0.5666666666666667,20
+2,"Benko Gambit Declined, Main Line",0.5652173913043478,13
+2,Global Opening,0.5652173913043478,13
+2,Richter-Veresov Attack #2,0.5625,6
+2,"King's Gambit Declined, Petrov's Defense",0.559322033898305,49
+2,"King's Gambit Accepted, Fischer Defense, Spanish Variation",0.5555555555555556,8
+2,King's Gambit Declined,0.5555555555555556,197
+2,"King's Gambit Accepted, King's Knight Gambit",0.5542570951585977,589
+2,St. George Defense,0.5537918871252204,557
+2,Caro-Kann Defense #2,0.5537190082644629,111
+2,Amar Opening,0.5535714285714286,46
+2,Rubinstein Opening,0.5526315789473685,28
+2,"King's Gambit Accepted, Rosentreter Gambit",0.55,50
+2,Saragossa Opening,0.5465648854961832,645
+2,"King's Gambit Accepted, Bishop's Gambit, Cozio Defense",0.5454545454545454,12
+2,Czech Defense,0.543859649122807,104
+2,"King's Gambit Accepted, Bishop's Gambit, Maurian Defense",0.543859649122807,47
+2,"King's Gambit Accepted, Fischer Defense",0.5427215189873418,622
+2,"King's Gambit Accepted, Greco Gambit",0.5416666666666666,14
+2,Center Game Accepted,0.5405405405405406,27
+2,"King's Gambit Accepted, Traditional Variation",0.5405405405405406,27
+2,"King's Gambit Declined, Mafia Defense",0.54,40
+2,Elephant Gambit,0.5380116959064327,674
+2,Three Knights Opening #2,0.5376344086021505,176
+2,Lemming Defense,0.5375,70
+2,Reti Opening,0.5369978858350951,463
+2,Reti Opening #2,0.5367647058823529,126
+2,Franco-Benoni Defense,0.5362903225806451,238
+2,"Englund Gambit Declined, Reversed French",0.5357142857142857,410
+2,Three Knights Opening,0.5352233676975945,1154
+2,Queen's Gambit,0.534965034965035,276
+2,King's Pawn Game,0.5335388409371147,8100
+2,Barnes Defense,0.5333333333333333,80
+2,"King's Gambit Declined, Keene Defense",0.5333333333333333,95
+2,Marienbad System,0.5333333333333333,5
+2,Queen's Gambit Accepted,0.5332657885849376,2951
+2,Nimzowitsch Defense,0.5330267558528428,2382
+2,French Defense #2,0.5328185328185329,1544
+2,Mikenas Defense,0.5325581395348837,420
+2,Queen's Pawn,0.532345013477089,2216
+2,System,0.53125,22
+2,Horwitz Defense,0.5309734513274337,4962
+2,"King's Gambit Accepted, Lolli Gambit",0.5294117647058824,7
+2,Queen's Pawn Game #3,0.5289514866979655,629
+2,Center Game #2,0.5285714285714286,270
+2,Van't Kruijs Opening,0.5284601557819053,6666
+2,Queen's Gambit Refused,0.5277777777777778,2834
+2,"Benko Gambit Accepted, Dlugy Variation",0.5263157894736842,9
+2,"King's Gambit Accepted, Kieseritzky Gambit, Cotter Gambit",0.5263157894736842,9
+2,"Blackmar-Diemer Gambit Declined, Lamb Defense",0.5263157894736842,9
+2,"King's Gambit Accepted, Modern Defense",0.5254237288135594,108
+2,Center Game,0.5250836120401338,1186
+2,Philidor Defense #2,0.5248525695029486,2364
+2,Van Geet Opening,0.5243722304283605,667
+2,Pirc Defense #5,0.5239651416122004,908
+2,"King's Gambit Accepted, Bishop's Gambit, Bogoljubov Variation",0.5238095238095238,11
+2,Robatsch Defense,0.5238095238095238,11
+2,Englund Gambit,0.523719165085389,517
+2,Colle System #2,0.5236051502145923,223
+2,Old Indian Defense,0.5233291298865069,783
+2,Colle System,0.5231560891938251,573
+2,Bird Opening,0.52297165200391,2036
+2,Philidor Defense #3,0.5228136882129277,3146
+2,Latvian Gambit,0.5217391304347826,220
+2,"Danish Gambit Declined, Sorensen Defense",0.5211267605633803,61
+2,Old Indian,0.5204081632653061,88
+2,"Latvian Gambit Accepted, Main Line",0.52,15
+2,"King's Gambit Accepted, Salvio Gambit",0.5192307692307693,42
+2,"King's Gambit Declined, Classical Variation #2",0.5192307692307693,42
+2,Mieses Opening,0.5190784737221023,1379
+2,Vienna Game,0.518854242204496,2748
+2,"King's Gambit Accepted, Becker Defense",0.5180722891566265,156
+2,Pirc Defense #4,0.5178486435030938,2091
+2,English Defense #2,0.5176470588235295,2200
+2,Wade Defense,0.5172413793103449,48
+2,Russian Game,0.5170616113744075,2100
+2,Neo-Gruenfeld Defense,0.5161290322580645,114
+2,Queen's Pawn Game #2,0.5159033078880407,3134
+2,"Nimzowitsch Defense, Declined Variation",0.515748031496063,244
+2,"King's Gambit Accepted, Bishop's Gambit",0.5157232704402516,149
+2,Benoni Defense,0.5153165418652145,1459
+2,King's Knight Opening,0.5152671755725191,1300
+2,Polish Opening,0.514799154334038,936
+2,Ponziani Opening,0.5144694533762058,612
+2,English Defense,0.5142045454545454,342
+2,Trompowsky Attack,0.5138121546961326,352
+2,King's Gambit,0.5136054421768708,872
+2,"King's Gambit Accepted, Allgaier Gambit",0.5128205128205128,29
+2,Zukertort Opening,0.5126050420168067,3441
+2,Petrov's Defense #2,0.5125348189415042,349
+2,King's Pawn Opening,0.5123456790123457,152
+2,Blackmar-Diemer Gambit,0.5116731517509727,504
+2,"King's Gambit, Falkbeer Countergambit, Blackburne Attack",0.5116279069767442,33
+2,"King's Gambit Accepted, Hanstein Gambit",0.5116279069767442,33
+2,"King's Gambit Declined, Classical Variation",0.5113636363636364,166
+2,Four Knights Game,0.511164274322169,2498
+2,Vienna Game #2,0.5111111111111111,35
+2,Ruy Lopez,0.5110446769639595,6011
+2,Anderssen Opening,0.5108877721943048,587
+2,Alekhine Defense,0.5106672719019519,2193
+2,Queen's Pawn Game,0.510505309134724,13269
+2,Bishop's Opening,0.5099090318388564,6146
+2,Scandinavian Defense,0.5098395721925134,9340
+2,Nimzowitsch-Larsen Attack,0.5098039215686274,92
+2,Lasker Simul Special,0.5094339622641509,43
+2,"King's Gambit Declined, Queen's Knight Defense",0.5084745762711864,816
+2,Alekhine Defense #2,0.5080645161290323,114
+2,Hungarian Opening,0.5078260869565218,5740
+2,Catalan Opening,0.5076335877862596,252
+2,Nimzo-Indian Defense #2,0.5075187969924813,256
+2,Guatemala Defense,0.5064935064935064,67
+2,Caro-Kann Defense,0.5059588299024919,9220
+2,Queen's Gambit Declined,0.5057233704292527,6280
+2,Englund Gambit Complex Declined,0.5048543689320388,196
+2,Indian Game,0.5048543689320388,3389
+2,Slav Defense #2,0.5043010752688172,920
+2,Sicilian Defense,0.5041723011972691,30309
+2,Robatsch (Modern) Defense,0.5038898862956314,1661
+2,Grob Opening,0.5036231884057971,266
+2,French Defense,0.5028337874659401,18340
+2,Nimzo-Larsen Attack,0.502491103202847,2800
+2,Rat Defense,0.5022371364653244,1778
+2,Ware Opening,0.5018587360594795,259
+2,English Opening,0.5016088666428316,8381
+2,Sicilian Defense #2,0.5011441647597255,427
+2,Gruenfeld Defense,0.501123595505618,880
+2,King's Gambit Accepted,0.5,270
+2,Blumenfeld Countergambit #2,0.5,102
+2,"King's Gambit, Falkbeer Countergambit, Modern Transfer",0.5,16
+2,Semi-Slav Defense Accepted,0.5,12
+2,Petrov's Defense #4,0.5,16
+2,Creepy Crawly Formation,0.5,18
+2,"King's Gambit Accepted, Bonsch-Osmolovsky Variation",0.5,72
+2,"Blackmar-Diemer Gambit Declined, O'Kelly Defense",0.5,8
+2,"Latvian Gambit Accepted, Foltys-Leonhardt Variation",0.5,6
+2,"Latvian Gambit Accepted, Nimzowitsch Attack",0.5,16
+2,Valencia Opening,0.5,8
+2,"King's Indian, Orthodox, 7...Nbd7 8.Re1",0.5,16
+2,Owen Defense,0.499315470369646,5103
+2,"King's Gambit Accepted, MacLeod Defense",0.49830508474576274,580
+2,Italian Game,0.4980847498204453,8344
+2,Englund Gambit Complex,0.4976958525345622,424
+2,"King's Gambit Accepted, Cunningham Defense",0.4971751412429379,344
+2,Old Benoni Defense,0.4970014992503748,1324
+2,King's Indian Attack,0.4967234600262123,753
+2,Giuoco Piano,0.49641025641025643,965
+2,Nimzo-Indian Defense,0.4960159362549801,1496
+2,Semi-Bononi,0.4939759036144578,73
+2,Philidor Defense,0.4936838511437351,2919
+2,Richter-Veresov Attack,0.4935064935064935,67
+2,Petrov,0.4918032786885246,112
+2,Semi-Slav Defense,0.49177037334403856,2481
+2,Tarrasch Defense,0.49145299145299143,458
+2,Polish Defense,0.49107142857142855,214
+2,Scotch Game,0.4910196987253766,3442
+2,"Latvian Gambit Accepted, Bilguer Variation",0.49056603773584906,43
+2,Budapest Defense,0.4901098901098901,445
+2,"King's Gambit Accepted, Stamma Gambit",0.4897959183673469,39
+2,Slav Defense #3,0.4897119341563786,233
+2,"King's Gambit Declined, Norwalde Variation",0.48936170212765956,37
+2,Portuguese Opening,0.4878048780487805,31
+2,Slav Defense,0.48768834987137083,2711
+2,Dutch Defense,0.4871645274212369,1704
+2,Modern Defense,0.48572525924977594,7801
+2,Torre Attack #2,0.4849624060150376,256
+2,"Englund Gambit Declined, Reversed Krebs",0.48484848484848486,23
+2,Clemenz Opening,0.4845360824742268,87
+2,Canard Opening,0.48412698412698413,116
+2,King's Indian Defense,0.48406040268456374,2374
+2,East Indian Defense,0.4838709677419355,238
+2,London System,0.48360655737704916,112
+2,Petrov's Defense,0.482421875,502
+2,Queen's Indian Defense,0.48148148148148145,395
+2,Pirc Defense #2,0.47863247863247865,224
+2,"King's Gambit, Falkbeer Countergambit Accepted",0.47761194029850745,57
+2,Benko Gambit,0.47641509433962265,202
+2,Yusupov-Rubinstein System,0.47619047619047616,158
+2,Duras Gambit,0.47619047619047616,305
+2,"King's Gambit Declined, Classical Variation, Rotlewi Countergambit",0.47619047619047616,11
+2,"King's Gambit Accepted, Breyer Gambit",0.475,30
+2,Queen's Indian Accelerated,0.4744525547445255,127
+2,"Danish Gambit Accepted, Copenhagen Defense",0.47435897435897434,68
+2,"Englund Gambit Declined, Reversed Alekhine",0.47368421052631576,28
+2,Pirc Defense,0.472636815920398,995
+2,"King's Gambit Accepted, Blachly Gambit",0.4725274725274725,81
+2,King's Pawn,0.47191011235955055,79
+2,Pirc Defense #3,0.47107438016528924,111
+2,Latvian Gambit Accepted,0.47058823529411764,211
+2,"Benko Gambit Accepted, Pawn Return Variation",0.46938775510204084,39
+2,"Danish Gambit Accepted, Chigorin Defense",0.46875,22
+2,Slav Indian,0.4666666666666667,80
+2,"Benko Gambit Accepted, Fully Accepted Variation",0.4666666666666667,50
+2,"Benko Gambit Accepted, Modern Variation",0.4666666666666667,20
+2,"King's Gambit, Falkbeer Countergambit, Charousek Gambit",0.4666666666666667,20
+2,"Latvian Gambit Accepted, Bronstein Attack",0.4666666666666667,5
+2,"Blackmar-Diemer Gambit Declined, Weinsbach Declination",0.4642857142857143,18
+2,"King's Gambit Accepted, Cunningham Defense, McCormick Defense",0.4642857142857143,18
+2,Torre Attack,0.46408839779005523,171
+2,"King's Gambit, Falkbeer Countergambit, Charousek Gambit Accepted",0.4583333333333333,14
+2,Philidor Defense #4,0.45790251107828656,667
+2,"King's Gambit Accepted, Abbazia Defense",0.45161290322580644,52
+2,Danish Gambit,0.4514038876889849,453
+2,Danish Gambit Accepted,0.4462809917355372,111
+2,Pterodactyl Defense,0.44047619047619047,74
+2,Bogo-Indian Defense,0.4375,166
+2,"King's Gambit, Falkbeer Countergambit, Charousek Gambit, Morphy Defense",0.4375,6
+2,"King's Gambit, Falkbeer Countergambit, Staunton Line",0.4315068493150685,136
+2,"King's Gambit Accepted, Kieseritzky Gambit, Kolisch Defense",0.42857142857142855,11
+2,Scotch Gambit,0.42857142857142855,18
+2,"King's Gambit Accepted, Polerio Gambit",0.4186046511627907,33
+2,Petrov's Defense #5,0.4146341463414634,31
+2,"Danish Gambit Accepted, Classical Defense",0.4146341463414634,31
+2,"Benko Gambit Accepted, Fianchetto Variation",0.40625,22
+2,"King's Gambit Accepted, Philidor Gambit",0.4,5
+2,"Danish Gambit Accepted, Schlechter Defense",0.3888888888888889,8
+2,"King's Gambit Accepted, Bishop's Gambit, Bogoljubov Defense",0.3888888888888889,8
+2,"King's Gambit, Falkbeer Countergambit, Hinrichsen Gambit",0.3888888888888889,8
+2,"King's Gambit Declined, Miles Defense",0.3870967741935484,21
+2,"Englund Gambit Declined, Reversed Mokele Mbembe",0.38095238095238093,11
+2,"King's Gambit Accepted, Muzio Gambit, Sarratt Defense",0.36666666666666664,20
+2,"King's Gambit, Falkbeer Countergambit, Nimzowitsch-Marshall Countergambit",0.35294117647058826,7
+2,"King's Indian, Fianchetto, Classical Variation, 8.e4",0.35,10
+2,Crab Opening,0.3333333333333333,23

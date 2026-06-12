@@ -1,6 +1,7 @@
 import numpy as np
 import chess.pgn
-
+import pandas as pd
+import os
 center_squares = [chess.E4, chess.E5, chess.D4, chess.D5]
 piece_value = {
     chess.PAWN : 1,
@@ -25,8 +26,24 @@ piece_value = {
 #    checks_given = 0 gotovo
 #    pawn_moves_ratio = 0 gotovo
 #    
-#    
-#
+
+FEATURE_NAMES = [
+    "center_pressure", "sacrifices_count", "sacrifices_score",
+    "exchange_count", "early_captures", "development", "repeated_moves",
+    "castled", "castling_delay", "attacks", "checks", "pawn_moves"
+]
+
+def save_features(features: dict, path: str = "../data/processed/features.csv"):
+    rows = {player: vec for player, vec in features.items()}
+    df = pd.DataFrame.from_dict(rows, orient="index", columns=FEATURE_NAMES)
+    df.index.name = "player"
+    df.to_csv(path)
+
+def load_features(path: str = "../data/processed/features.csv"):
+    if not os.path.exists(path):
+        return None
+    df = pd.read_csv(path, index_col="player")
+    return {player: np.array(row) for player, row in df.iterrows()}
 
 def count_early_captures_and_development(moves, player_color, num_of_moves = 7):
     board = chess.Board()
@@ -214,7 +231,3 @@ def extract_features(games, num_of_moves=10):
         #print(f"Dodajem {key}")
         features_list.append(features[key])
     return np.array(features_list)
-
-    
-
-

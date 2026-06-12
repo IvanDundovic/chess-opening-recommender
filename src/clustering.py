@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import csv
+import pickle
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
@@ -37,13 +38,15 @@ def fit_clusters(scaled_data, k):
     labels = k_means.fit_predict(scaled_data)
     return k_means, labels
 
-def visualize_clusters(scaled_data, labels):
+def visualize_clusters(scaled_data, labels, streamlit=False):
     pca = PCA(n_components=2)
     feat_reduced = pca.fit_transform(scaled_data)
-    plt.figure(figsize=(12, 5))
-    scatter = plt.scatter(feat_reduced[:,0], feat_reduced[:,1], c=labels, s=50, cmap="viridis")
-    plt.colorbar(scatter, label="Cluster")
-    plt.title("PCA-visualisation")
+    fig, ax = plt.subplots(figsize=(12, 5))
+    scatter = ax.scatter(feat_reduced[:,0], feat_reduced[:,1], c=labels, s=50, cmap="viridis")
+    plt.colorbar(scatter, ax=ax, label="Cluster")
+    ax.set_title("PCA-visualisation")
+    if streamlit:
+        return fig
     plt.show()
 
 def profile_clusters(feature_matrix, labels, feature_names):
@@ -65,4 +68,12 @@ def load_clusters(filepath):
     player_names = df["player"].tolist()
     labels = df["cluster"].to_numpy()
     return player_names, labels
-    
+
+def save_model(model, data_mean, data_std, filepath="../data/processed/model.pkl"):
+    with open(filepath, "wb") as f:
+        pickle.dump({"model": model, "mean": data_mean, "std": data_std}, f)
+
+def load_model(filepath= "../data/processed/model.pkl"):
+    with open(filepath, "rb") as f:
+        data = pickle.load(f)
+    return data["model"], data["mean"], data["std"]
