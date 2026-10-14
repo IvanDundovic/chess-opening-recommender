@@ -1,4 +1,4 @@
-# chess-opening-recommender
+# Sustav preporuke šahovskih otvaranja
 
 ## Opis projekta
 
